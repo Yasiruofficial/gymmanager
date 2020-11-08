@@ -1,0 +1,38 @@
+               Member 1
+
+        Membership Number : 203
+        Membership Name : LAUCKU
+        Category : Default Member
+        StartMembershipDate : 18-6-2020
+        NIC : 9817002107v
+        Email : laucky@gmail.con
+        Height : 200 cm
+        Weight : 32 cm
+
+
+               Member 2
+
+        Membership Number : 34
+        Membership Name : YSASI
+        Category : Student Member
+        StartMembershipDate : 3-4-2020
+        NIC : 88073079V
+        Email : yasi@gmail.con
+        Height : 123 cm
+        Weight : 45 cm
+        School Name : PWC
+        Emergency Contact number : 079894020
+
+               Member 3
+
+        Membership Number : 221
+        Membership Name : LANKA
+        Category : Over 60 Member
+        StartMembershipDate : 1-3-2020
+        NIC : 61793476v
+        Email : lanka@gmail.com
+        Height : 334 cm
+        Weight : 67 cm
+        Age : 70
+
+

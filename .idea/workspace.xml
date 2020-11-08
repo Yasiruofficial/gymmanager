@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1fPZCX0BMWLLCxus2f4qpzNRDrj" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/libraries/mongo-java-driver-3.12.6.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2045977" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yasir\IdeaProjects\GymManagementWithJunit\src\image" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Junit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="GymManagementWithJunit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Junit.TestRunner" />
+      <module name="GymManagementWithJunit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GymManagementWithJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Junit" />
+      <option name="MAIN_CLASS_NAME" value="Junit.JunitTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestRunner" />
+      <item itemvalue="JUnit.JunitTestSuite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestRunner" />
+        <item itemvalue="JUnit.JunitTestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1596121563815" duration="3739000" />
+      <workItem from="1596125618058" duration="7080000" />
+      <workItem from="1596162450070" duration="18464000" />
+      <workItem from="1596198534516" duration="5909000" />
+      <workItem from="1596204977276" duration="16020000" />
+      <workItem from="1596224287360" duration="745000" />
+      <workItem from="1596296544314" duration="2437000" />
+      <workItem from="1596332952229" duration="648000" />
+      <workItem from="1596352392978" duration="16905000" />
+      <workItem from="1596376969557" duration="3000" />
+      <workItem from="1596391230000" duration="6664000" />
+      <workItem from="1596431024486" duration="4434000" />
+      <workItem from="1596686757560" duration="4482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="23" key="#Inspections" timestamp="1596173195298">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="267" y="23" key="#Inspections/0.0.1280.689@0.0.1280.689" timestamp="1596173195298" />
+    <state x="620" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1596370756330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="620" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1596370756330" />
+    <state x="424" y="239" width="432" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596166576695">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="424" y="239" width="432" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1596166576695" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596128412519">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1596128412519" />
+    <state x="348" y="86" key="FileChooserDialogImpl" timestamp="1596213297095">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1596213297095" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1596750211028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1596439710209" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596750211028" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1596750211028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1596439710208" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596750211028" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1596750211028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1596439710208" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596750211028" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1596750211028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1596439710208" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596750211028" />
+    <state width="1237" height="445" key="GridCell.Tab.1.bottom" timestamp="1596221696332">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="445" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1596221696332" />
+    <state width="1237" height="445" key="GridCell.Tab.1.center" timestamp="1596221696332">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="445" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1596221696332" />
+    <state width="1237" height="445" key="GridCell.Tab.1.left" timestamp="1596221696332">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="445" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1596221696332" />
+    <state width="1237" height="445" key="GridCell.Tab.1.right" timestamp="1596221696332">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="445" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1596221696332" />
+    <state x="182" y="0" key="SettingsEditor" timestamp="1596687117005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1596213340620" />
+    <state x="182" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596687117005" />
+    <state x="376" y="237" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596122018249">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="376" y="237" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1596122018249" />
+    <state x="348" y="102" key="refactoring.ChangeSignatureDialog" timestamp="1596356211411">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="102" key="refactoring.ChangeSignatureDialog/0.0.1280.689@0.0.1280.689" timestamp="1596356211411" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1596297032072">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1596297032072" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/DBConnection.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
